@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6506728b-3258-4a16-849d-04efaa7c93da/deploy-status)](https://app.netlify.com/sites/meetingapp/deploys)
+
 ## Calendly
 
 
