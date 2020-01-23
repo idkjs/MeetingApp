@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "email": "annmary.agunanna@andela.com",
+      "password": "secret",
+      "id": 1
+    },
+    {
+      "email": "annmary.amaka@andela.com",
+      "password": "secret",
+      "id": 2
+    },
+    {
+      "email": "annmary.amy@andela.com",
+      "password": "secret",
+      "id": 3
+    }
+  ],
+  "appointments": [
+    {
+      "date": "2020-01-23",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "userId": 2,
+      "booked": true,
+      "bookedBy": 1,
+      "title": "One and One",
+      "description": "Decsr",
+      "id": 1
+    },
+    {
+      "date": "2020-01-23",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "userId": 2,
+      "booked": true,
+      "bookedBy": 1,
+      "title": "Technical Interview",
+      "description": "Interview",
+      "id": 2
+    },
+    {
+      "date": "2020-01-24",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "userId": 1,
+      "booked": true,
+      "bookedBy": null,
+      "title": "",
+      "description": "",
+      "id": 3
+    },
+    {
+      "date": "2020-01-24",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "userId": 1,
+      "booked": false,
+      "booked_by": null,
+      "title": "",
+      "description": "",
+      "id": 4
+    },
+    {
+      "date": "2020-01-24",
+      "startTime": "14:22",
+      "endTime": "15:33",
+      "userId": 2,
+      "booked": false,
+      "booked_by": null,
+      "title": "",
+      "description": "",
+      "id": 5
+    }
+  ]
+}

@@ -36,6 +36,5 @@ export const Logout = () => {
 
 export const checkUserExist = async (email) => {
   const { data } = await http.get(`/users?email=${email}`)
-  console.log(data.length, 'length')
   return Boolean(data.length)
 }

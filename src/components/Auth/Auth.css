@@ -1,0 +1,10 @@
+.auth {
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    padding: 12px;
+    font-size: 14px;
+}

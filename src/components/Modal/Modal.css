@@ -1,0 +1,11 @@
+.modal-content {
+  margin-top: 40%;
+}
+.btn-link:hover {
+  text-decoration: none !important;
+  color: #69c769 !important;
+}
+
+.btn-link:focus {
+  text-decoration: none !important;
+}

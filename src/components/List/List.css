@@ -1,0 +1,15 @@
+.list-group {
+  margin: 60px;
+}
+
+.booked {
+  background: green !important;
+}
+
+.badge {
+  padding: 8px !important;
+}
+
+.list-group-item {
+  display: flex !important;
+}

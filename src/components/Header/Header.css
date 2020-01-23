@@ -1,0 +1,10 @@
+
+
+a:hover {
+    color: green;
+}
+
+.nav-bar .logo {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
