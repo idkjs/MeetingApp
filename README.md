@@ -25,7 +25,7 @@
 * Clone the repo
 
 ```sh
-> $ git clone https://github.com/Annmary12/Like-Machine.git
+> $ git clone https://github.com/Annmary12/MeetingApp.git
 ```
 
 * Install dependencies by running
