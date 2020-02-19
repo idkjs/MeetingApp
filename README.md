@@ -40,7 +40,7 @@ To get the app up and running (and really see if it worked), run:
 
 ```sh
 > $ npm start
-> $ npm run serve
+> $ npm run server
 ```
 
 # Note
